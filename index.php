@@ -5,7 +5,8 @@
 
     <title>Home | Test</title>
   </head>
-  <body>
+  <body
+	  <h1>This edited in github</h1>
     <?php include"menu.php"?>
     <!-- Start WOWSlider.com BODY section -->
 <div id="wowslider-container1">
