@@ -7,6 +7,7 @@
   </head>
   <body
 	  <h1>This edited in github</h1>
+    <p>This is paragraph</p>
     <?php include"menu.php"?>
     <!-- Start WOWSlider.com BODY section -->
 <div id="wowslider-container1">
